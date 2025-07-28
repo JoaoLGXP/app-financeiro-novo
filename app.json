@@ -21,12 +21,14 @@
       }
     },
     "plugins": [
-      "expo-build-properties",
-      {
-        "android": {
-          "kotlinVersion": "1.8.10"
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.8.10"
+          }
         }
-      }
+      ]
     ]
   }
 }
