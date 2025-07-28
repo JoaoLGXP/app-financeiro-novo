@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "lucagxp",
+    "extra": {
+      "eas": {
+        "projectId": "2fe2b404-039a-4251-a9a0-d9e96b77dbca"
+      }
     }
   }
 }
